@@ -1,2 +1,2 @@
-# hanx
+# Hanx
 Discord Hack Week Bot
